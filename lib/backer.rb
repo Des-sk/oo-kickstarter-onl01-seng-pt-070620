@@ -1,4 +1,4 @@
-class Baker
+class Backer
   
   @backed_projects=[ ]
   
