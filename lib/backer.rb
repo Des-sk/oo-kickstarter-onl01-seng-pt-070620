@@ -1,7 +1,8 @@
 class Baker
+  
   @backed_projects=[ ]
   
-  attr_reader :project, :name
+  attr_reader :name
   
   def initialize(name)
     @name=name
